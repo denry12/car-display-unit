@@ -1,0 +1,5 @@
+stm32f1x unlock 0
+reset halt
+flash write_image erase unlock cardatacollector.hex
+
+all this was done in embedded bootloader boot way

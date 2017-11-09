@@ -1,0 +1,9 @@
+*.hex
+*.elf
+*.d
+*.o
+*.prefs
+*.map
+/Debug/
+*.xml
+*.mk
